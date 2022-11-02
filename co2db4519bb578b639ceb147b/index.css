@@ -1,0 +1,90 @@
+body {
+    min-width:550px;
+    margin: 0;
+    background: #1F2937;
+    border: none;
+}
+
+.container {
+    margin-left: 52px; 
+    margin-top: 100px;
+    margin-right: 52px
+}
+
+h1 {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: -0.025em;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #D5D4D8;
+    margin-top: 0px;
+    margin-bottom: 51px;
+}
+
+.differentColor {
+    color: #10B981;
+}
+
+#mainButton {
+    border-radius: 6px;
+    padding: 9px 17px;
+    background: #10B981;
+    border: none;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    margin-bottom: 35px;
+}
+
+hr {
+    margin: 0px;
+    border: 1px solid #2F3E53;
+    margin-bottom: 35px;
+    width: 446px;
+}
+
+.twoObjects {
+    text-align: left;
+    position: absolute;
+}
+
+.buttons {
+    width: 210px;
+    height: 39px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    border: none;
+    /* identical to box height, or 200% */
+
+    padding: 3px;
+
+    color: #55F991;
+    margin-bottom: 118px;
+}
+
+#left {
+    margin-right: 25px;
+}
+
+
